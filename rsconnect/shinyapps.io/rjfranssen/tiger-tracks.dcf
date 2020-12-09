@@ -1,0 +1,12 @@
+name: tiger-tracks
+title: tiger-tracks
+username:
+account: rjfranssen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2852180
+bundleId: 3963666
+url: https://rjfranssen.shinyapps.io/tiger-tracks/
+when: 1607486206.17001
+asMultiple: FALSE
+asStatic: FALSE
