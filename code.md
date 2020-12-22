@@ -1,6 +1,8 @@
 ### Recreate this visualization
 
-**Data Source**: Please visit [ZoaTrack.org](https://www.zoatrack.com) or visit the [Panna Tiger Activity dataset](https://zoatrack.org/projects/755/analysis) (account required).
+_Visit on [GitHub](https://github.com/rjfranssen/tiger-tracks)_  
+
+**Data Source**: Please visit [ZoaTrack.org](https://www.zoatrack.com) or visit the [Panna Tiger Activity dataset](https://zoatrack.org/projects/755/analysis) (account required).  
 
 `app.r`
 

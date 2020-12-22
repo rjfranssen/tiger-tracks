@@ -79,7 +79,7 @@ ui <- navbarPage(
   #title=custom_header,
   title="Tiger | Tracks",
   theme = shinythemes::shinytheme("flatly"),
-  
+
   ###################################################
   # ui/map/start
   ###################################################
@@ -186,6 +186,7 @@ ui <- navbarPage(
              )
            )
   )
+  #tabPanel(title=HTML("</a</li><li><a href='https://github.com/rjfranssen/tiger-tracks' target='_blank'>GitHub"))
   # )
   
   ###################################################
